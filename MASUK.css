@@ -1,0 +1,15 @@
+.container-fluid {
+    background-color: #555151;
+    height: 90%;
+    display: block;
+    }
+
+    .navbar-default {
+        position: fixed;
+        z-index: 99;
+        width: 100%;
+        
+        
+    
+    }
+    
